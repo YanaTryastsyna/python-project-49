@@ -11,3 +11,5 @@
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=YanaTryastsyna_python-project-49&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=YanaTryastsyna_python-project-49)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=YanaTryastsyna_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=YanaTryastsyna_python-project-49)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=YanaTryastsyna_python-project-49&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=YanaTryastsyna_python-project-49)
+
+[![asciicast](https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7.svg)](https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7)
