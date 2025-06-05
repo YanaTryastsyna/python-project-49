@@ -11,7 +11,7 @@ https://sonarcloud.io/project/overview?id=YanaTryastsyna_python-project-49
 
 ## Requirements
 
-- Python 3.7 and higher
+- Python 3.12 and higher
 - uv (Python package and project manager)
 - ruff (linter and code formatter)
 ## Installation
