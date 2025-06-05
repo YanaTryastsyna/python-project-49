@@ -20,3 +20,6 @@
 
 #brain-gcd
 [![asciicast](https://asciinema.org/a/N5UaJwZ6nN000GpU3q0KNneD8.svg)](https://asciinema.org/a/N5UaJwZ6nN000GpU3q0KNneD8)
+
+#brain-progression
+[![asciicast](https://asciinema.org/a/ZqOfDhmrlKtEkwEz0z0PtgX34.svg)](https://asciinema.org/a/ZqOfDhmrlKtEkwEz0z0PtgX34)
