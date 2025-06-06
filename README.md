@@ -53,13 +53,13 @@ The following games are implemented in the project:
 [![asciicast](https://asciinema.org/a/YkgO6dWhTXZZYDAIQWOhilF1E.svg)](https://asciinema.org/a/YkgO6dWhTXZZYDAIQWOhilF1E)
 
 #brain-calc
-[![asciicast](https://asciinema.org/a/N5UaJwZ6nN000GpU3q0KNneD8.svg)](https://asciinema.org/a/N5UaJwZ6nN000GpU3q0KNneD8)
+[![asciicast](https://asciinema.org/a/ifKP1YPmv0YUEYk5ELN0SD2ZV.svg)](https://asciinema.org/a/ifKP1YPmv0YUEYk5ELN0SD2ZV)
 
 #brain-gcd
-[![asciicast](https://asciinema.org/a/ErYFKsdaF1VqpRNQR8Ub8IL6C.svg)](https://asciinema.org/a/ErYFKsdaF1VqpRNQR8Ub8IL6C)
+[![asciicast](https://asciinema.org/a/nbLHgWBM1S4ORCyWgHbgdqr3a.svg)](https://asciinema.org/a/nbLHgWBM1S4ORCyWgHbgdqr3a)
 
 #brain-progression
-[![asciicast](https://asciinema.org/a/kIhErfbpQDARJfcqJEE8oD9Hk.svg)](https://asciinema.org/a/kIhErfbpQDARJfcqJEE8oD9Hk)
+[![asciicast](https://asciinema.org/a/vaNPWorJSVIGEU7RCk9xpc258.svg)](https://asciinema.org/a/vaNPWorJSVIGEU7RCk9xpc258)
 
 #brain-prime
 [![asciicast](https://asciinema.org/a/sSdQRqAuujr4AynD7O0XlcqZK.svg)](https://asciinema.org/a/sSdQRqAuujr4AynD7O0XlcqZK)
