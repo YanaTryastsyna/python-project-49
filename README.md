@@ -50,7 +50,7 @@ The following games are implemented in the project:
 
 
 #brain-even
-[![asciicast](https://asciinema.org/a/HCrdcVjVJ07h4aBSlVAh8mjZs.svg)](https://asciinema.org/a/HCrdcVjVJ07h4aBSlVAh8mjZs)
+[![asciicast](https://asciinema.org/a/YkgO6dWhTXZZYDAIQWOhilF1E.svg)](https://asciinema.org/a/YkgO6dWhTXZZYDAIQWOhilF1E)
 
 #brain-calc
 [![asciicast](https://asciinema.org/a/N5UaJwZ6nN000GpU3q0KNneD8.svg)](https://asciinema.org/a/N5UaJwZ6nN000GpU3q0KNneD8)
