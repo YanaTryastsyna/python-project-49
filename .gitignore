@@ -2,4 +2,5 @@
 __pycache__/
 *.py[cod]
 .ruff_cache/
-.python-version
+.python-version__pycache__/
+*.py[cod]
