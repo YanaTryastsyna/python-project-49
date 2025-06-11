@@ -1,8 +1,8 @@
 ## Badges
 
-https://github.com/YanaTryastsyna/python-project-49/actions/workflows/hexlet-check.yml/badge.svg
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=YanaTryastsyna_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=YanaTryastsyna_python-project-49)
 
-https://sonarcloud.io/project/overview?id=YanaTryastsyna_python-project-49
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=YanaTryastsyna_python-project-49&metric=coverage)](https://sonarcloud.io/summary/new_code?id=YanaTryastsyna_python-project-49)
 
 ## Tools used in the project
 
