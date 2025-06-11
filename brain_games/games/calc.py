@@ -4,11 +4,11 @@ GAME_RULES = 'What is the result of the expression?'
 
 
 def generate_round():
-    number1 = random.randint(1, 100) #NOSONAR
-    number2 = random.randint(1, 100) #NOSONAR
+    number1 = random.randint(1, 100)  # NOSONAR
+    number2 = random.randint(1, 100)  # NOSONAR
 
     operators = ['+', '-', '*'] 
-    random_operator = random.choice(operators) #NOSONAR
+    random_operator = random.choice(operators)  # NOSONAR
 
     question = f"{number1} {random_operator} {number2}"
     if random_operator == '+':

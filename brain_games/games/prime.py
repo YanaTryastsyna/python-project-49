@@ -14,7 +14,7 @@ def is_prime(number):
 
 
 def generate_round():
-    question = random.randint(1, 100) #NOSONAR
+    question = random.randint(1, 100)  # NOSONAR
     answer = 'yes' if is_prime(question) else 'no'
     return str(question), answer
 
