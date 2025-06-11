@@ -4,12 +4,11 @@ GAME_RULES = 'What is the result of the expression?'
 
 
 def generate_round():
-    # Cryptographic security is not required here
-    number1 = random.randint(1, 100) # nosec B311
-    number2 = random.randint(1, 100) # nosec B311
+    number1 = random.randint(1, 100) #NOSONAR
+    number2 = random.randint(1, 100) #NOSONAR
 
     operators = ['+', '-', '*'] 
-    random_operator = random.choice(operators) # nosec B311
+    random_operator = random.choice(operators) #NOSONAR
 
     question = f"{number1} {random_operator} {number2}"
     if random_operator == '+':

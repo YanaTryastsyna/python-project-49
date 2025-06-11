@@ -14,8 +14,7 @@ def is_prime(number):
 
 
 def generate_round():
-    # Cryptographic security is not required here
-    question = random.randint(1, 100) # nosec B311
+    question = random.randint(1, 100) #NOSONAR
     answer = 'yes' if is_prime(question) else 'no'
     return str(question), answer
 
