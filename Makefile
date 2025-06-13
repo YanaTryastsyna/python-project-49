@@ -3,6 +3,9 @@
 install:
 	uv sync
 
+test-coverage:
+	uv run pytest --cov=brain_games --cov-report=xml:coverage.xml
+
 build:
 	uv build
 
@@ -14,6 +17,9 @@ brain-games:
 	
 lint:
 	uv run ruff check brain_games
-
+	
+test:
+	uv pip install pytest  # Установка зависимостей
+	uv run pytest -v
 
 
